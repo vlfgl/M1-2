@@ -1,6 +1,12 @@
 <img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/b7ef31a3-ee81-4bf4-84c5-9dc19ce98687" />
 <img width="1915" height="968" alt="image" src="https://github.com/user-attachments/assets/382c35be-0878-441c-a963-fafda0c51a5c" />
 
+보너스 과제: 서비스 내보내기, 다크모드
+
+<img width="325" height="253" alt="image" src="https://github.com/user-attachments/assets/4a390fde-56e9-4307-8cd9-25e210a71f30" />
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/5061acb1-c29f-4a3f-8e73-49cb475f1217" />
+
+
 <<<<<<< HEAD
 # 💰 나만의 재무 비서 — 내 지출 데이터를 아는 AI
 
