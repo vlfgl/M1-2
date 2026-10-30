@@ -1,3 +1,6 @@
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/b7ef31a3-ee81-4bf4-84c5-9dc19ce98687" />
+<img width="1915" height="968" alt="image" src="https://github.com/user-attachments/assets/382c35be-0878-441c-a963-fafda0c51a5c" />
+
 <<<<<<< HEAD
 # 💰 나만의 재무 비서 — 내 지출 데이터를 아는 AI
 
@@ -13,9 +16,9 @@
 
 | 구분 | URL |
 |---|---|
-| 프론트엔드 (Vercel) | `https://<YOUR-PROJECT>.vercel.app` |
-| 백엔드 API (Render) | `https://<YOUR-SERVICE>.onrender.com` |
-| Swagger UI | `https://<YOUR-SERVICE>.onrender.com/docs` |
+| 프론트엔드 (Vercel) | `https://financial-management-mu-three.vercel.app` |
+| 백엔드 API (Render) | `https://finance-management-api-n14t.onrender.com` |
+| Swagger UI | `https://finance-management-api-n14t.onrender.com/docs` |
 
 > ⚠️ Render 무료 티어는 15분간 요청이 없으면 잠듭니다. 첫 접속 시 최대 1분 정도 걸릴 수 있으며, 프론트엔드가 접속 즉시 `/health`를 호출해 서버를 깨우고 안내 배너를 표시합니다.
 
