@@ -1,0 +1,13 @@
+Set-Content -Encoding ascii .gitignore @"
+.venv/
+venv/
+.vscode/
+.env
+__pycache__/
+serviceAccountKey.json
+*firebase-adminsdk*.json
+"@
+
+git rm --cached .vscode/settings.json
+git add .
+git status
