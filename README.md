@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 나만의 재무 비서 — 내 지출 데이터를 아는 AI
 
 일반 챗봇은 "이번 달 지출 어때?"라고 물으면 일반론만 답합니다.
@@ -140,3 +141,6 @@ python -m http.server 5500     # http://127.0.0.1:5500
 | 데이터 요약 + 채팅 | 데이터 관리 | 대화 기록 |
 |---|---|---|
 | ![chat](docs/screenshot-chat.png) | ![data](docs/screenshot-data.png) | ![history](docs/screenshot-history.png) |
+=======
+# M1-2
+>>>>>>> 5631679a1eb9466071a124251ac1f6d761eaecf2
