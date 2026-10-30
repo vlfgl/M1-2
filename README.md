@@ -25,6 +25,7 @@
 | 프론트엔드 (Vercel) | `https://financial-management-mu-three.vercel.app` |
 | 백엔드 API (Render) | `https://finance-management-api-n14t.onrender.com` |
 | Swagger UI | `https://finance-management-api-n14t.onrender.com/docs` |
+<img width="1916" height="965" alt="image" src="https://github.com/user-attachments/assets/029a8322-6fd2-4dd6-b709-d629161b0af0" />
 
 > ⚠️ Render 무료 티어는 15분간 요청이 없으면 잠듭니다. 첫 접속 시 최대 1분 정도 걸릴 수 있으며, 프론트엔드가 접속 즉시 `/health`를 호출해 서버를 깨우고 안내 배너를 표시합니다.
 
